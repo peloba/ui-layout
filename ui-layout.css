@@ -21,7 +21,7 @@
   -webkit-justify-content: center;
   justify-content: center;
 
-  background-color: #ffffff;
+  background-color: #dfdfdf;
   right: auto;
   position: absolute;
   z-index: 1010;
@@ -43,7 +43,7 @@
 
 .ui-layout-column > .ui-splitbar > a,
 .ui-layout-row > .ui-splitbar > a {
-  color: #fff;
+  color: #414141;
   cursor: pointer;
   font-size: 9px;
 }
